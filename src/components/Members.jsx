@@ -15,7 +15,7 @@ const Members = () => {
                 </div>
                 <div className='w-36 '>
                     <img className='h-32 w-36 ' src="/assets/p2.jpeg" alt="" />
-                    <p className='text-center mt-2 text-[16px] font-semibold'>Dilip Kumar Pattanaik</p>
+                    <p className='text-center mt-2 text-[16px] font-semibold'>Dillip Kumar Pattanaik</p>
                     <p className='text-center text-[10px] font-semiboldbold'>TREASURER</p>
                 </div>
                 <div className='w-36 '>

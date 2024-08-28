@@ -15,7 +15,7 @@ const Footer = () => {
                         <h2 class="font-bold text-xl mt-4">Address</h2>
                         <div class="w-32 h-1 bg-yellow-500 text-center rounded"></div>
                         <div>
-                           <p>Bacchara-Patna near little star school</p>
+                           <p>AT - GOPAL PRASAD PO - BADASAHARA VIA - BHAPUR <br />DIST- NAYAGARH <br />PIN- 752063 </p>
                         </div>
                     </div>
 
@@ -23,7 +23,8 @@ const Footer = () => {
                         <h2 class="font-bold text-xl mt-4">Contact-Details</h2>
                         <div class="w-32 h-1 bg-yellow-500 text-center rounded"></div>
                         <div>
-                            <p>Official Mail ID. support@99bookstores.com</p>
+                            <p>Official Mail ID: vivekanandapathagar1999@gmail.com</p>
+                            <p>Mobile No: 9439644340 </p>
                         </div>
                     </div>
 

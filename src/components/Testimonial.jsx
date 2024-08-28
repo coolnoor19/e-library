@@ -26,7 +26,7 @@ const Testimonial = () => {
         
             <div className='bg-gray-300 h-[450px] text-black rounded-xl'>
                 
-                    <img src="https://plus.unsplash.com/premium_photo-1669652639356-f5cb1a086976?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8Ym9va3N8ZW58MHx8MHx8fDA%3D" alt="" className='h-[100%] w-[100%] rounded-md ' />
+                    <img src="/assets/vivekananda1.jpg" alt="" className=' object-cover rounded-md ' />
           
             </div>
        
@@ -39,7 +39,7 @@ const Testimonial = () => {
             
             <div className='bg-gray-300 h-[450px] text-black rounded-xl'>
               
-                    <img src="https://images.unsplash.com/photo-1609345635784-fd4a890e2326?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGJvb2tzfGVufDB8fDB8fHww" alt="" className='h-[100%] w-[100%] rounded-md ' />
+                    <img src="/assets/vivekananda2.jpg" alt="" className=' object-cover rounded-md ' />
               
 
                 
@@ -52,10 +52,8 @@ const Testimonial = () => {
         <div className='mt-5'>
             <div className='bg-gray-300 h-[450px] text-black rounded-xl'>
              
-                    <img src="https://images.unsplash.com/photo-1604866830893-c13cafa515d5?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Ym9va3N8ZW58MHx8MHx8fDA%3D" alt="" className='h-[100%] w-[100%] rounded-md' />
-                
-
-               
+                    <img src="/assets/vivekananda3.jpg" alt="" className=' object-cover rounded-md' />
+ 
             </div>
         </div>
       
