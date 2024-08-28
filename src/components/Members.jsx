@@ -10,7 +10,7 @@ const Members = () => {
                
                 <div className='w-36 '> 
                      <img className='h-32 w-36' src="/assets/p1.jpeg" alt=""  /> 
-                    <p className='text-center mt-2 text-[16px] leading-1 font-semibold'>Sabtosh Kumar Pattanaik</p>
+                    <p className='text-center mt-2 text-[16px] leading-1 font-semibold'>Santosh Kumar Pattanaik</p>
                     <p className='text-center text-[12px] tracking-widest font-semiboldbold'>PRESIDENT</p>
                 </div>
                 <div className='w-36 '>
