@@ -22,7 +22,7 @@ const Hero = () => {
                     The Vivekananda Pathagar, recognized by the Odisha Additional Society Organization, is dedicated to the welfare of Gopalprasad village, Odisha, focusing on education, healthcare, and sustainable livelihoods. The society operates with established bylaws and holds a certification, ensuring transparency and impact in its initiatives.
                 </p>
                 <div className='flex justify-evenly'>
-                    <a href="https://www.google.co.in/" target="_blank"><img src="/assets/law1.jpeg" alt="" className='h-[400px] border-[12px] border-black cursor-pointer ' /></a>
+                    <img src="/assets/law1.jpeg" alt="" className='h-[400px] border-[12px] border-black cursor-pointer ' />
                     <a href="https://drive.google.com/file/d/1pOmk5tqIrrlLKgf2M54-fB-z1jx7-1IZ/view?usp=sharing" target="_blank"> <img src="/assets/law2.jpeg " alt="" className='h-[400px] border-[12px] border-black cursor-pointer' /></a>
                 </div>
 
