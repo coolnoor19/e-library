@@ -6,7 +6,7 @@ const Footer = () => {
     return (
         <footer class="w-full h-[220px] mt-4 bg-[#f7f7f7]  px-4 text-black pt-8 flex flex-col md:flex-row flex-wrap justify-between">
             <div className=" w-44 h-44 flex items-center justify-center">
-                <img className="w-40 h-[170px]" src="/public/assets/abc.jpeg" alt=""/>
+                <img className="w-40 h-[170px]" src="/assets/abc.jpeg" alt=""/>
                  {/* <p class="my-4">Email us: support@pwskills.com</p> */}
                    
             </div>

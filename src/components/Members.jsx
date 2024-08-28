@@ -9,22 +9,22 @@ const Members = () => {
             <div className='flex justify-evenly h-auto w-[80%] m-auto  gap-4     '>
                
                 <div className='w-36 '> 
-                     <img className='h-32 w-36' src="/public/assets/p1.jpeg" alt=""  /> 
+                     <img className='h-32 w-36' src="/assets/p1.jpeg" alt=""  /> 
                     <p className='text-center mt-2 text-[16px] leading-1 font-semibold'>Sabtosh Kumar Pattanaik</p>
                     <p className='text-center text-[12px] tracking-widest font-semiboldbold'>PRESIDENT</p>
                 </div>
                 <div className='w-36 '>
-                    <img className='h-32 w-36 ' src="public/assets/p2.jpeg" alt="" />
+                    <img className='h-32 w-36 ' src="/assets/p2.jpeg" alt="" />
                     <p className='text-center mt-2 text-[16px] font-semibold'>Dilip Kumar Pattanaik</p>
                     <p className='text-center text-[10px] font-semiboldbold'>TREASURER</p>
                 </div>
                 <div className='w-36 '>
-                    <img className='h-32 w-36' src="public/assets/p3.jpeg" alt="" />
+                    <img className='h-32 w-36' src="/assets/p3.jpeg" alt="" />
                     <p className='text-center mt-2 text-[16px] font-semibold'>Sankarsan Behera</p>
                     <p className='text-center text-[10px] font-semiboldbold'>SECRETARY</p>
                 </div>
                 <div className='w-36 '> 
-                    <img className='h-32 w-36' src="public/assets/p4.jpeg" alt="" />
+                    <img className='h-32 w-36' src="/assets/p4.jpeg" alt="" />
                     <p className='text-center mt-2 text-[16px] font-semibold'>Manamohan Pattanaik</p>
                     <p className='text-center text-[10px] font-semiboldbold'>ASS.- SECRETARY</p>
                 </div>
