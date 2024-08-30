@@ -4,6 +4,28 @@ import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 
+function SampleNextArrow(props) {
+    const { className, style, onClick } = props;
+    return (
+      <div
+        className={className}
+        style={{ ...style, display: "block", background: "black",borderRadius: "30px" }}
+        onClick={onClick}
+      />
+    );
+  }
+  
+  function SamplePrevArrow(props) {
+    const { className, style, onClick } = props;
+    return (
+      <div
+        className={className}
+        style={{ ...style, display: "block", background: "black",borderRadius: "30px"}}
+        onClick={onClick}
+      />
+    );
+  }
+
 const Testimonial = () => {
     const settings = {
         dots: true,
@@ -12,8 +34,13 @@ const Testimonial = () => {
         slidesToShow: 1,
         slidesToScroll: 1,
         autoplay: true,
+        
         speed: 1000,
         autoplaySpeed: 2500,
+        arrows: true ,
+        nextArrow: <SampleNextArrow />,
+    prevArrow: <SamplePrevArrow />,
+        
         cssEase: "linear"
 
         
